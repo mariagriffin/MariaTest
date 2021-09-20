@@ -1,2 +1,2 @@
 # MariaTest
-This is my first test project
+This is a test project
