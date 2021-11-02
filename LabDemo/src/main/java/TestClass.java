@@ -8,6 +8,7 @@ public class TestClass {
 		System.out.println("HEllo");
 		System.out.println("GitHub Action!");
 		System.out.println("GitHub Action!");
+		System.out.println("GitHub Action!");
 	}
 
 }
