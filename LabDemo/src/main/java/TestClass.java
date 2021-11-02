@@ -6,6 +6,7 @@ public class TestClass {
 		//this is a test class
 		//nothing happening here!
 		System.out.println("HEllo");
+		System.out.println("GitHub Action!");
 	}
 
 }
