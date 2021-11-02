@@ -7,6 +7,7 @@ public class TestClass {
 		//nothing happening here!
 		System.out.println("HEllo");
 		System.out.println("GitHub Action!");
+		System.out.println("GitHub Action!");
 	}
 
 }
