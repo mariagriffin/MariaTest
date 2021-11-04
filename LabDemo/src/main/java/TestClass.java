@@ -10,6 +10,8 @@ public class TestClass {
 		System.out.println("GitHub Action!");
 		System.out.println("GitHub Action!");
 		System.out.println("GitHub ActionDemo!");
+		
+		System.out.println("GitHub ActionDemo!");
 	}
 
 }
