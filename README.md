@@ -1,3 +1,3 @@
 # MariaTest
 This is a test project
-We will use for Git Hub
+We will use for Git Hub Actions
